@@ -8,9 +8,9 @@ from pydub import AudioSegment
 from pydub.playback import play
 
 # Your Groq Whisper API key
-GROQ_API_KEY = "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"
-GROQ_TRANSCRIBE_URL = "https://api.groq.com/openai/v1/audio/transcriptions"
-GROQ_CHAT_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_API_KEY = 
+GROQ_TRANSCRIBE_URL = 
+GROQ_CHAT_URL =
 
 def record_and_transcribe():
     record_audio()  # Record user's voice
